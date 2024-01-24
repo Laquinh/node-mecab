@@ -1,5 +1,5 @@
 {
-  "name": "@enjoyjs/node-mecab",
+  "name": "@Laquinh/node-mecab",
   "version": "0.5.0",
   "description": "MeCab wrapper for Node.js",
   "type": "module",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enjoyjs/node-mecab.git"
+    "url": "git+https://github.com/Laquinh/node-mecab.git"
   },
   "keywords": [
     "mecab"
@@ -39,9 +39,9 @@
   "author": "Yusei Yamamoto <yuseiyamamoto.dev@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/enjoyjs/node-mecab/issues"
+    "url": "https://github.com/Laquinh/node-mecab/issues"
   },
-  "homepage": "https://github.com/enjoyjs/node-mecab#readme",
+  "homepage": "https://github.com/Laquinh/node-mecab#readme",
   "engines": {
     "node": ">=v18.15.0"
   },
