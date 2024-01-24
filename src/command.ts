@@ -39,6 +39,7 @@ export const wakati = async (
 	text: string,
 	options: Readonly<MecabOptions> = {},
 ): Promise<string[][]> => {
+	console.log("hello");
 	const wakati = await analyze(text, {...options, outputFormatType: 'wakati'});
 	return wakati.split(/\r?\n/).map((row) => row.trim().split(' '));
 };
